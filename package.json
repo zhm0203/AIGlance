@@ -1,0 +1,21 @@
+{
+  "name": "aiglance",
+  "version": "1.0.0",
+  "description": "AI News Aggregator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'Use Vercel deployment'",
+    "start": "echo 'Use Vercel deployment'"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "ai",
+    "news",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
